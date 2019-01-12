@@ -1,0 +1,30 @@
+body{
+    background:#f4f4f4;
+}
+
+.main-color{
+    background-color: hsl(0, 87%, 40%) !important;
+    color: white;
+}
+
+#header{
+    background:#333333;
+    color: #ffffff;
+}
+
+/* Breadcrumb */
+.breadcrumb{
+    background:#cccccc;
+    color:#333333;
+}
+
+.breadcrumb a{
+    color:#333333;
+}
+
+#footer{
+    background-color: #333333;
+    color: #fff;
+    text-align: center; 
+}
+
